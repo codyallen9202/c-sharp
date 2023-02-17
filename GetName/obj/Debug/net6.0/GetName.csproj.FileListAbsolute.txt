@@ -1,0 +1,15 @@
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\bin\Debug\net6.0\GetName.exe
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\bin\Debug\net6.0\GetName.deps.json
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\bin\Debug\net6.0\GetName.runtimeconfig.json
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\bin\Debug\net6.0\GetName.dll
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\bin\Debug\net6.0\GetName.pdb
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.csproj.AssemblyReference.cache
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.AssemblyInfoInputs.cache
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.AssemblyInfo.cs
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.csproj.CoreCompileInputs.cache
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.dll
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\refint\GetName.dll
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.pdb
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\GetName.genruntimeconfig.cache
+C:\Users\codym\Documents\CS\C# Players Guide\GetName\obj\Debug\net6.0\ref\GetName.dll
